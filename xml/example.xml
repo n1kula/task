@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<emag supplier="test" supplierID="test_id" version="8">
+    <offerList type="standard" prepared="2017-02-23T09:05:00.0398298+01:00" name="supplier offers">
+        <offer partNo="ABCDE13292">
+            <productName><![CDATA[Zest.słuch. Samsung EO-EG920BB In-Ear black/blue]]></productName>
+            <price vat="23%" currency="PLN">23.48</price>
+            <availability>1</availability>
+            <onStock>29</onStock>
+        </offer>
+        <offer partNo="ABCDEP00005">
+            <productName><![CDATA[SAMSUNG Słuchawki przew.HS1303 zielone]]></productName>
+            <price vat="23%" currency="PLN">18.79</price>
+            <availability>0</availability>
+            <onStock>0</onStock>
+        </offer>
+        <offer partNo="ABCDEP00007">
+            <productName><![CDATA[SAMSUNG Słuchawki przew. IN-Ear fabric c zarne]]></productName>
+            <price vat="23%" currency="PLN">45.23</price>
+            <availability>0</availability>
+            <onStock>0</onStock>
+        </offer>
+    </offerList>
+</emag>
